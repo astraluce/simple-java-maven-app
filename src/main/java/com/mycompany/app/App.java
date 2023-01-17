@@ -5,9 +5,9 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World!";
+    //private static final String MESSAGE = "Hello World!";
 	// purposely inject different message
-	//private static final String MESSAGE = "Hello World!Wrong";
+	private static final String MESSAGE = "Hello World!Wrong";
 
     public App() {}
 
