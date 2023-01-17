@@ -15,7 +15,8 @@ public class App {
         /*System.out.println(MESSAGE); */
 		//System.out.println("Changing message");
 		//System.out.println("Changing message again");
-		System.out.println("Starting to rain");
+		//System.out.println("Starting to rain");
+		System.out.println("Testing autobuild");
     }
 
     public String getMessage() {
